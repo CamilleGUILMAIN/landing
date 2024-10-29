@@ -1,0 +1,14 @@
+.card {
+  border: 1px solid rgb(23, 23, 86);
+  padding: 18px;
+  width: 150px ;
+}
+
+.card h2 {
+  font-size: 12px;
+}
+
+.card img {
+  height: 200px;
+  object-fit: cover;
+}
